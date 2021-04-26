@@ -74,6 +74,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DB_Scripts\ServiceTutorial_HR_DB.sql" />
     <Content Include="Web.config" />
     <Content Include="WebServiceHR.asmx" />
   </ItemGroup>
